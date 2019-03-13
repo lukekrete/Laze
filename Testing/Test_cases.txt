@@ -1,0 +1,12 @@
+Testing Cases:
+
+-Users being able to create and remove their OWN pins but are able to view others pins
+-Creation of an account:
+        -Users must use mylaurier email
+        -pasword has to be over 7 characters with no spaces
+-Admins may remove, update, add any pins on the map
+-Ensuring each button works
+-Ensuring that each texfield field works
+
+
+-while creating pins the category of pin only changes when Info, Food, Parking or Study is choose. It will default to info (category selected when clicked on a pin). 

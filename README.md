@@ -1,5 +1,5 @@
 
-## This is a tutorial on how to setup your virtual environment and to view your project locally. Although this is long, the steps to view the current project should be very clear. At the end, I provide an example using my folder structure. Please message Anthony Sukadil or anyone from backend on Slack if you are struggling with setting this up. ##
+## This is a tutorial on how to setup your virtual environment and to view your project locally. Although this is long, the steps to view the current project should be very clear. At the end, I provide an example using my folder structure. Please message anyone from backend on Slack if you are struggling with setting this up. ##
 
 
 ----------------------------------------------------------------------------------
@@ -49,22 +49,22 @@
 ----------------------------------------------------------------------------------
 
 #### For my folder structure, I have the following directories: ####
-    C:/Users/Anthony/Documents/cp-master/CP317/laze
-    C:/Users/Anthony/Documents/cp-master/CP317/venv-laze
+    C:/Users/Luke/Documents/cp-master/CP317/laze
+    C:/Users/Luke/Documents/cp-master/CP317/venv-laze
 #### These are the commands to run the server using my folder structure on Windows and I have skipped the steps to create the virtual environment and install Django since it should be very clear: ####
-    Anthony@Anthony-PC MINGW64 ~
+    Luke@Luke-PC MINGW64 ~
     $ cd Documents/cp-master/CP317/venv-laze/
     
-    Anthony@Anthony-PC MINGW64 ~/Documents/cp-master/CP317/venv-laze
+    Luke@Luke-PC MINGW64 ~/Documents/cp-master/CP317/venv-laze
     $ source Scripts/activate
     (venv-laze)
-    Anthony@Anthony-PC MINGW64 ~/Documents/cp-master/CP317/venv-laze
+    Luke@Luke-PC MINGW64 ~/Documents/cp-master/CP317/venv-laze
     $ cd ..
     (venv-laze)
-    Anthony@Anthony-PC MINGW64 ~/Documents/cp-master/CP317
+    Luke@Luke-PC MINGW64 ~/Documents/cp-master/CP317
     $ cd laze/Web/laze/
     (venv-laze)
-    Anthony@Anthony-PC MINGW64 ~/Documents/cp-master/CP317/laze/Web/laze (master)
+    Luke@Luke-PC MINGW64 ~/Documents/cp-master/CP317/laze/Web/laze (master)
     $ python manage.py runserver
     Performing system checks...
 
@@ -75,8 +75,8 @@
     Quit the server with CTRL-BREAK.
     
     (venv-laze)
-    Anthony@Anthony-PC MINGW64 ~/Documents/cp-master/CP317/laze/Web/laze (master)
+    Luke@Luke-PC MINGW64 ~/Documents/cp-master/CP317/laze/Web/laze (master)
     $ deactivate
     
-    Anthony@Anthony-PC MINGW64 ~/Documents/cp-master/CP317/laze/Web/laze (master)
+    Luke@Luke-PC MINGW64 ~/Documents/cp-master/CP317/laze/Web/laze (master)
     $ 
